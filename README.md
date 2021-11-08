@@ -1,2 +1,6 @@
 # BankChurnersPredictProject
-section 2 project 
+
+## Data
+dataset : Credit Card customers
+data shape : (10127,23)
+
